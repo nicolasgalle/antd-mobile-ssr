@@ -22,7 +22,7 @@
     "lib"
   ],
   "dependencies": {
-    "antd-mobile-web": "git+https://github.com/nicolasgalle/antd-mobile-web.git"
+    "antd-mobile-web": "github:nicolasgalle/antd-mobile-web"
   },
   "devDependencies": {
     "babel-cli": "^6.23.0",
